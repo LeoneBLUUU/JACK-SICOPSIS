@@ -1,7 +1,7 @@
 {
   "version": 1,
   "fontSize": 23,
-  "updatedAt": "2026-10-24T13:11:01.585Z",
+  "updatedAt": "2026-10-24T13:11:16.538Z",
   "pages": [
     {
       "title": "",
@@ -55,7 +55,7 @@
     {
       "title": "SESSIONE 2",
       "text": "",
-      "bookmark": "",
+      "bookmark": "SESSIONE 2",
       "color": "#c1221a",
       "highlights": []
     },

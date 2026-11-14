@@ -1,7 +1,7 @@
 {
   "version": 1,
   "fontSize": 23,
-  "updatedAt": "2026-11-14T14:57:29.044Z",
+  "updatedAt": "2026-11-14T14:57:40.306Z",
   "pages": [
     {
       "title": "",
@@ -168,7 +168,14 @@
       "title": "",
       "text": "",
       "bookmark": "",
-      "color": "#bd6857",
+      "color": "#b51200",
+      "highlights": []
+    },
+    {
+      "title": "",
+      "text": "",
+      "bookmark": "",
+      "color": "#b51200",
       "highlights": []
     },
     {
@@ -189,14 +196,7 @@
       "title": "",
       "text": "",
       "bookmark": "",
-      "color": "#bd6857",
-      "highlights": []
-    },
-    {
-      "title": "",
-      "text": "",
-      "bookmark": "",
-      "color": "#bd6857",
+      "color": "#b51200",
       "highlights": []
     },
     {

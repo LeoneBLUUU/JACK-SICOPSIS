@@ -1,7 +1,7 @@
 {
   "version": 1,
   "fontSize": 23,
-  "updatedAt": "2026-11-14T15:00:41.556Z",
+  "updatedAt": "2026-11-21T15:01:13.017Z",
   "pages": [
     {
       "title": "",
@@ -153,7 +153,7 @@
     {
       "title": "SESSIONE 4",
       "text": "",
-      "bookmark": "",
+      "bookmark": "sessione 4",
       "color": "#b51200",
       "highlights": []
     },
